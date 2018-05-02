@@ -1,0 +1,12 @@
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\Newtonsoft.Json.dll
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\SharpHttpServer.dll
+E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug\Newtonsoft.Json.xml
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.FormTestHttpServer.resources
