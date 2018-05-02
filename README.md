@@ -1,5 +1,6 @@
 # WindowsServiceDemo
-#安装服务
-E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug>InstallUtil.exe WindowsService1.exe
-#卸载服务
-E:\workspace_c#\WindowsService1\WindowsService1\bin\Debug>sc delete TestHttpService
+# 鍚姩c#鍛戒护琛岋紝甯︾郴缁熺鐞嗗憳鏉冮檺
+# 娣诲姞鏈嶅姟
+..\WindowsService1\bin\Debug>InstallUtil.exe WindowsService1.exe
+# 鍒犻櫎鏈嶅姟
+..\WindowsService1\WindowsService1\bin\Debug>sc delete TestHttpService
