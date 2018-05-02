@@ -10,3 +10,6 @@ E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj
 E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
 E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
 E:\workspace_c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.FormTestHttpServer.resources
+E:\workspace_github\WindowsServiceDemo\WindowsServiceDemo\WindowsService1\bin\Debug\WindowsService1.exe.config
+E:\workspace_github\WindowsServiceDemo\WindowsServiceDemo\WindowsService1\obj\Debug\WindowsService1.exe
+E:\workspace_github\WindowsServiceDemo\WindowsServiceDemo\WindowsService1\obj\Debug\WindowsService1.pdb
